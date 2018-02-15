@@ -1,4 +1,8 @@
 This first line.
 This second line from furqan.
 this is second line from abdullah.
+<<<<<<< HEAD
 This is an other line.
+=======
+A line from github
+>>>>>>> master
