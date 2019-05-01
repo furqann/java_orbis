@@ -1,1 +1,1 @@
-# Just for learning git.
+# Learning Java through practical examples
