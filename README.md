@@ -1,4 +1,4 @@
-# Learning Java through practical examples
+# Learning Java through Practical examples
 
 ## Study Links
 
