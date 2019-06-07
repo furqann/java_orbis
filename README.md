@@ -1,6 +1,6 @@
 # Learning Java through Practical examples
 
-## Study Links
+## Study material
 
 [Java](https://www.w3schools.com/java/java_intro.asp)
 
