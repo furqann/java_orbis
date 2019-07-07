@@ -11,7 +11,7 @@ public class WritingToFile {
         if(!file.exists()){
             file.createNewFile();
         }
-        FileWriter writer = new FileWriter(file,true);
+        FileWriter writer = new FileWriter(file);
         writer.write("This is the first line\n");
         writer.write("This is the Second line\n");
         writer.write("This is the third line");
@@ -25,7 +25,7 @@ public class WritingToFile {
         FileWriter append_writer = new FileWriter(appendFile,true);
         append_writer.write("This is the first line\n");
         append_writer.write("This is the Second line\n");
-        append_writer.write("This is the third line");
+        append_writer.write("This is the third line\n");
         append_writer.close();
     }
 }
