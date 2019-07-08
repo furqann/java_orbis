@@ -1,4 +1,4 @@
-# Learning Java through Examples
+# Learning Java with Examples
 
 ## Study materials
 
