@@ -1,6 +1,6 @@
 # Learn Java with Examples
 
-## Study materials
+## Study material
 
 [Java Intro](https://www.w3schools.com/java/java_intro.asp)
 
